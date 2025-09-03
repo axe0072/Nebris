@@ -23,7 +23,7 @@ A modern, lightweight screen saver application for Windows that transforms your 
 ### Option 2: Build from Source
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/nebris.git
+git clone https://github.com/axe0072/nebris.git
 
 # Install dependencies
 pip install -r requirements.txt

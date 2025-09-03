@@ -25,8 +25,5 @@ A modern, lightweight screen saver application for Windows that transforms your 
 # Clone repository
 git clone https://github.com/axe0072/nebris.git
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Build executable
-pyinstaller --onefile --windowed --icon=ikonica.ico --name "Nebris" main7.py
+pyinstaller --onefile --windowed --icon=ikonica.ico --name "Nebris" nebris.py

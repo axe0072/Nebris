@@ -1,7 +1,8 @@
 # Nebris
 A modern, lightweight screen saver application for Windows that transforms your idle time into an elegant clock display.
 
-![Nebris Screensaver](screenshot.png)
+![Nebris](<img width="512" height="512" alt="n" src="https://github.com/user-attachments/assets/5e8ceb4b-db4a-463d-8082-393f4196e1a0" />
+)
 
 ## ✨ Features
 

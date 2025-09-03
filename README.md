@@ -6,6 +6,8 @@ A modern, lightweight screen saver application for Windows that transforms your 
 
 ## ✨ Features
 
+<img width="256" height="256" alt="n" src="https://github.com/user-attachments/assets/662b8ba0-100c-482a-976a-507916102c9f" />
+
 - **Multiple Clock Styles**: Digital, Flip, Date, and Calendar views
 - **Multi-language Support**: 12 languages including English, Spanish, French, German, and more
 - **Smart Activation**: Only activates when system is truly idle
@@ -28,3 +30,6 @@ git clone https://github.com/axe0072/nebris.git
 
 # Build executable
 pyinstaller --onefile --windowed --icon=ikonica.ico --name "Nebris" nebris.py
+
+
+
